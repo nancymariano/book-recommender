@@ -1,11 +1,6 @@
-// Nancy Mariano
-// p1.cpp
-// Purpose: To implement the Book, Member and Ratings classes.
-// A user will be able to login, logout, create an account,
+
+// Purpose: To implement the Book, Member and Ratings classes.// A user will be able to login, logout, create an account,
 // rate a book and recieve a recommendation for another book.
-// Input:
-// Output:
-// Examples:
 
 #include <iostream>
 #include <fstream>
